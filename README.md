@@ -1,6 +1,3 @@
-# Adaptive-cruise-Control-using-fuzzy-Logic
-Adaptive Cruise Control using Fuzzy Logic for intelligent vehicle speed control.
-
 # Adaptive Cruise Control Using Fuzzy Logic
 
 ## Overview
